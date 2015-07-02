@@ -4,14 +4,13 @@
 	<assets>
 		<asset type="document-view">
 			
-			<entry href="index.html" href-html5="" href-swf="" width="1024" height="627" type="responsive"/>
+			<entry href="index.html" width="1024" height="627" />
+			<file href="index.html"/>
 			
 			
-<file href="goodbye.html"/>
 <file href="index.html"/>
-<file href="project.txt"/>
+<file href="project.json"/>
 <file href="ar/Mouse.mp3"/>
-<file href="assets/.DS_Store"/>
 <file href="assets/css/CPLibraryAll.css"/>
 <file href="assets/css/start/jquery-ui-1.10.4.custom.css"/>
 <file href="assets/css/start/jquery-ui-1.10.4.custom.min.css"/>
@@ -105,29 +104,29 @@
 <file href="assets/TOC_icons/collapseIcon.png"/>
 <file href="assets/TOC_icons/expandIcon.png"/>
 <file href="assets/TOC_icons/photo.png"/>
-<file href="dr/17729_336_210_Sa4.png"/>
 <file href="dr/18694_166_169.png"/>
 <file href="dr/19493_500_130.png"/>
 <file href="dr/19800_312_140.png"/>
 <file href="dr/19854_358_92Br-19Co33Sa13Sh15.png"/>
-<file href="dr/19861_498_120Br-24Co20Hu8Sh12.png"/>
+<file href="dr/19861_478_115Br-43Co20Hu8Sh13.png"/>
 <file href="dr/19864_580_124.png"/>
 <file href="dr/19871_510_114.png"/>
 <file href="dr/20169_286_143.png"/>
 <file href="dr/20460_522_126.png"/>
-<file href="dr/21625_526_134.png"/>
 <file href="dr/23686_560_163.png"/>
-<file href="dr/26017_572_149Br91Co33.png"/>
 <file href="dr/26316_532_138.png"/>
 <file href="dr/27802_532_126Br57Sa74Sh7.png"/>
-<file href="dr/27805_527_103Br-30Co6Hu1Sa15Sh27.png"/>
+<file href="dr/27805_527_103Br-69Co4Hu1Sa6Sh58.png"/>
 <file href="dr/28101_527_130.png"/>
 <file href="dr/28107_509_120.png"/>
-<file href="dr/32070_539_127.png"/>
+<file href="dr/32070_522_124.png"/>
 <file href="dr/32092_1142_704.png"/>
 <file href="dr/32123_500_120.png"/>
 <file href="dr/34079_512_125.png"/>
+<file href="dr/34827_580_139.png"/>
+<file href="dr/34922_400_400.png"/>
 <file href="dr/8833_500_120.png"/>
+<file href="dr/8833_570_137.png"/>
 <file href="dr/loader.gif"/>
 <file href="dr/Slide11837_thnail.jpg"/>
 <file href="dr/Slide12775_thnail.jpg"/>
@@ -138,17 +137,17 @@
 <file href="dr/Slide24508_thnail.jpg"/>
 <file href="dr/Slide24799_thnail.jpg"/>
 <file href="dr/Slide25090_thnail.jpg"/>
-<file href="dr/Slide25381_thnail.jpg"/>
 <file href="dr/Slide25672_thnail.jpg"/>
-<file href="dr/Slide25963_thnail.jpg"/>
 <file href="dr/Slide26256_thnail.jpg"/>
-<file href="dr/Slide26570_thnail.jpg"/>
-<file href="dr/Slide26864_thnail.jpg"/>
 <file href="dr/Slide27157_thnail.jpg"/>
 <file href="dr/Slide27450_thnail.jpg"/>
 <file href="dr/Slide27745_thnail.jpg"/>
 <file href="dr/Slide28044_thnail.jpg"/>
-<file href="dr/Slide31999_thnail.jpg"/>
+<file href="dr/Slide35375_thnail.jpg"/>
+<file href="dr/Slide36096_thnail.jpg"/>
+<file href="dr/Slide36514_thnail.jpg"/>
+<file href="dr/Slide40552_thnail.jpg"/>
+<file href="dr/Slide41282_thnail.jpg"/>
 <file href="dr/Slide4365_thnail.jpg"/>
 			
 		</asset>
